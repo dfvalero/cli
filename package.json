@@ -1,0 +1,13 @@
+{
+  "name": "@dfvalero/cli",
+  "version": "1.0.0",
+  "description": "CLI for personal projects",
+  "author": "dfvalero@gmail.com",
+  "license": "MIT",
+  "bin": {
+    "cli": "bin/cli"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
